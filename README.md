@@ -6,6 +6,6 @@ Technologies used: Coroutines, Dagger2 Hilt, LiveData, RecyclerView, Constraint 
 
 
 
-![name1](app/src/readme/login.jpg) | ![name2](app/src/readme/map.jpg)
+![name1](readme/login.png) | ![name2](readme/map.png)
 ----------- | -------------
 login screen | map screen 
